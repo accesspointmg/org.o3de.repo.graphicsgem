@@ -341,5 +341,16 @@
     "Graphics",
     "Rendering",
     "Atom"
+  ],
+  "releases": [
+    {
+      "name": "2607.0",
+      "source_controls": [
+        {
+          "git": "https://github.com/accesspointmg/o3de-graphicsgem.git",
+          "tag": "2607.0"
+        }
+      ]
+    }
   ]
 }
